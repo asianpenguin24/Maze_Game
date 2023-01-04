@@ -1,0 +1,24 @@
+﻿  main.cpp
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(392,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(392,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(424,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(424,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(444,31): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(447,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(455,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(455,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(456,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(468,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(469,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(482,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(483,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(496,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(497,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(510,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(511,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(524,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(525,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(1112,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\main.cpp(1113,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+lighting.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> A:\SKOOKS\YEAR 4\CS 450\Final Project\SampleFreeGlut2019\Debug\Sample.exe
